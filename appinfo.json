@@ -1,0 +1,36 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "ORL",
+    "longName": "Time to punish",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/tumblr_static_punisher_skull_ico.png",
+                "menuIcon": true,
+                "name": "HHHHH",
+                "type": "png"
+            },
+            {
+                "file": "images/Skull_bw.png",
+                "name": "MAIN_PIC",
+                "type": "png"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "Time to punish",
+    "targetPlatforms": [
+        "aplite",
+        "basalt",
+        "chalk"
+    ],
+    "uuid": "2dc553ca-e5af-4381-89fe-2095b2e2c47b",
+    "versionLabel": "2.1",
+    "watchapp": {
+        "watchface": true
+    }
+}
